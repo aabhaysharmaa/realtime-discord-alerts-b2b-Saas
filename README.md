@@ -35,9 +35,4 @@ Designed with a clean, modern UI powered by **shadcn/ui** and optimized for prod
 
 ---
 
-## 📦 Project Setup
-
-> ⚠️ If you're following along with the original tutorial, clone the specific version using:
-
-```bash
-git clone -b preserve-old-master https://github.com/upstash/jstack
+## 📦 Projects Setup 
